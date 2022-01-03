@@ -1,0 +1,54 @@
+html {
+  background-color: #12BAD4;
+}
+
+
+#logo{
+  display: block;
+  margin: 0 auto;
+}
+
+#img_p1{
+  float: left;
+  margin: 0 15px 15px 150px;
+  
+}
+
+#bandrele{
+  float: left;
+  margin: 0 15px 15px 0;
+}
+
+#bidonville {
+	float: left;
+	margin: 0 25px 25px 0
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+h1, h2 {
+	color: orange;
+    font-size: 60px;
+    text-align: center;
+}
+
+#img_p2 {
+	float: right;
+	margin: 0 20px 20px 0
+}
+
+#button {
+	background-color: orange;
+	font-size: 10px;
+	padding: 5px
+}
+
+
+
+
+
+
